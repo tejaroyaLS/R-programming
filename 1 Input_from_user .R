@@ -1,0 +1,5 @@
+name=c("Manasrith","Joshika","Niharika")
+age=c(13,14,9)
+print(name)
+print(age)
+print(R.version.string)
